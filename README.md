@@ -3,4 +3,4 @@ This module reads an excel file (NDR PBS Line List) into a pandas data frame and
 
 #
 
-![pbs_linelist_mysql_import](./pbs_linelist_import.png, "NDR PBS Line List importer.")
+![pbs_linelist_mysql_import](./pbs_linelist_import.png "NDR PBS Line List importer.")
